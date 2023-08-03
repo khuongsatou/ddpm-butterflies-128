@@ -35,3 +35,4 @@ samples/0019.png filter=lfs diff=lfs merge=lfs -text
 samples/0029.png filter=lfs diff=lfs merge=lfs -text
 samples/0039.png filter=lfs diff=lfs merge=lfs -text
 samples/0049.png filter=lfs diff=lfs merge=lfs -text
+unet/diffusion_pytorch_model.safetensors filter=lfs diff=lfs merge=lfs -text
